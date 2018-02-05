@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585445679099",
+    "firebase_url": "https://todolist-fcd74.firebaseio.com",
+    "project_id": "todolist-fcd74",
+    "storage_bucket": "todolist-fcd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585445679099:android:a9880f230b84eec0",
+        "android_client_info": {
+          "package_name": "com.freeze.epitech.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585445679099-s0nlceg0ct6dmluu8pabfnng5n4kve7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freeze.epitech.todolist",
+            "certificate_hash": "9103f465a96186a0ce76b76615baf1faa3476af7"
+          }
+        },
+        {
+          "client_id": "585445679099-nndugee0qe2avtl9gk12qt0s8r11h6jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxyRPOHd-8PHbeVW2PRbofqkMM8fS58H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585445679099-nndugee0qe2avtl9gk12qt0s8r11h6jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
