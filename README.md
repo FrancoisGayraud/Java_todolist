@@ -4,7 +4,7 @@ A todo app in Java,
 
 
 What you can do
-===============
+--------
 
 - Add a Task with a date
 
@@ -16,7 +16,7 @@ What you can do
 
 
 Technologies
-============
+-----
 
 Firebase Realtime Database
 
