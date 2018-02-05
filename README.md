@@ -1,6 +1,6 @@
 # Java_todolist
 
-A todo app in Java, 
+A todo app in Java
 
 
 What you can do
